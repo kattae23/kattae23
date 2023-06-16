@@ -35,4 +35,7 @@
 
 ## Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/alfonzo-hernández-b283a6267/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:alfonzo.developer@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:alfonzo.developer@gmail.com)&nbsp;
+
+## My WhatsApp
+![+584121133222](+584121133222)
