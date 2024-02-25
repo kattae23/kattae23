@@ -21,11 +21,12 @@ https://alfdev-portfolio.vercel.app
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![NextJS](https://img.shields.io/badge/NextJS-ffffff?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;![NestJS](https://img.shields.io/badge/NestJS-ffffff?style=for-the-badge&logo=nestjs&logoColor=black)&nbsp;
+![NextJS](https://img.shields.io/badge/NextJS-ffffff?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
 #### Other Technologies:
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-ffffff?style=for-the-badge&logo=nestjs&logoColor=black)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2E86C1?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
