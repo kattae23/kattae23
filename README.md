@@ -1,44 +1,27 @@
-### Hi there, 👋
-### I'm Alfonzo Hernández
+![Twitter header - 3](./linkedin-banner.png)
+<h1 align="center"> Hi there, I'm Alfonzo! 👋</h1> 
 
-https://alfonzodev.com/
+<div align="center">
+<a href="https://github.com/kattae23" target="_blank"><a href="https://x.com/alfz_hz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://twitter.com/alfz_hz" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%2312100E.svg?&style=for-the-badge&logo=discord&logoColor=white?color=5865F2" /></a> <a href="https://www.linkedin.com/in/alfonzo-hernandez-h" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andryore/" /></a>
+</div>
 
-👨‍💻 ITSM and Cybersecurity Specialist, Geek, and Tech Lover 🤖
+<h2 align="center">I'm a self-taught FullStack developer from Venezuela :venezuela:</h2>
 
-🚀 Self Motivated and Passionated Full-Stack Developer
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
-💻 Currently a Software Engineering Student
+- 📧 You can reach me at alfonzodeveloper@gmail.com
 
- **I am open to**:
-- Any collobration work 🤝
-- Keep Learning and Improving 📚
+# Some Tools I Use
 
-## My Skills:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,git,nextjs,vite,tailwind,discord,mysql,mongodb,postgresql,prisma,figma,docker,react,markdown,bots,aws,gcp,firebase,github,azure,golang,python,java,linux,nginx" />
+  </a>
+</p>
 
-#### Frontend Technologies:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![NextJS](https://img.shields.io/badge/NextJS-ffffff?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+<div align="center">
+  
+| <a href="https://github.com/kattae23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kattae23&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="kattae23's github stats" /></a> | <a href="https://github.com/kattae23/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kattae23&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-
-#### Other Technologies:
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/NestJS-ffffff?style=for-the-badge&logo=nestjs&logoColor=black)&nbsp;
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2E86C1?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernets-0054a5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/Postgres-2F5E8D?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Mysql](https://img.shields.io/badge/Mysql-BE7400?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDb](https://img.shields.io/badge/Mongodb-2F5E8D?style=for-the-badge&logo=mongodb&logoColor=green)&nbsp;
-
-
-## Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/alfonzo-hernandez-h/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:alfonzo.developer@gmail.com)&nbsp;
-
-## My WhatsApp
-+584121133222
+</div>
